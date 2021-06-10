@@ -1,1 +1,1 @@
-# CS170_project2
+# CS205 Project 2
